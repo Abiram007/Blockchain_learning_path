@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-//THIS ISGONNA HAVE LOOOTS OF COMMENTS
+//THIS IS GONNA HAVE LOOOTS OF COMMENTS
 // It is a basic Smart contract that lets anyone deposit ETH into the contract
 // where only the owner of the contract can withdraw the ETH, making the others who deposited a walking L
 pragma solidity >=0.6.0 <0.9.0; 
