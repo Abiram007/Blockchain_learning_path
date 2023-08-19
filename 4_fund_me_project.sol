@@ -97,3 +97,4 @@ contract FundMe {
         //broke lmao
     }
 }
+//NO MORE REMIX IDE....Kinda liked it ngl....BACK TO HOME!!....VSC!!!
